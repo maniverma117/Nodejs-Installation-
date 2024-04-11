@@ -2,10 +2,14 @@ NODEJs INSTALLATION ON UBUNTU
 ===
 
 ## Install & Dependence
-- apt update 
-- apt install xz-utils
-- apt install wget
-- cd /opt
+- Command to run 
+  ```
+  apt update 
+  apt install xz-utils
+  apt install wget
+  cd /opt
+  
+  ```
 
 ## Use
 - for download 
