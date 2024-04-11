@@ -20,7 +20,7 @@ NODEJs INSTALLATION ON UBUNTU
 ```
 tar -xvf node-v20.11.1-linux-x64.tar.xz 
 mv node-v20.11.1-linux-x64/ node-20js
-echo "export PATH=$PATH:/opt/node-20js/bin" > ~/.bashrc 
+echo "export PATH=$PATH:/opt/node-20js/bin" >> ~/.bashrc 
 source ~/.bashrc 
 node -v
 npm -v
