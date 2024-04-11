@@ -1,6 +1,8 @@
-                  NODEJs INSTALLATION ON UBUNTU
-                  ===
-
+NODEJs INSTALLATION ON UBUNTU
+===
+<p align="center">
+// NODEJs INSTALLATION ON UBUNTU
+</p>
 ![NODEJS](nodejs.png)
 
 ## Install & Dependence
