@@ -1,6 +1,8 @@
 NODEJs INSTALLATION ON UBUNTU
 ===
 
+![NODEJS](nodejs.png)
+
 ## Install & Dependence
 - Command to run 
   ```
