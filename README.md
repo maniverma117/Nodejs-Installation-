@@ -13,9 +13,9 @@ NODEJs INSTALLATION ON UBUNTU
   wget https://nodejs.org/dist/v20.11.1/node-v20.11.1-linux-x64.tar.xz
   ```
 - for specific versions 
-  ```
+
    [download](https://nodejs.org/dist/)
-  ```
+ 
 ## Pretrained model
 | Model | Download |
 | ---     | ---   |
