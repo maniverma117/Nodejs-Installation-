@@ -1,33 +1,20 @@
-Title
+NODEJs INSTALLATION ON UBUNTU
 ===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
 
 ## Install & Dependence
-- python
-- pytorch
-- numpy
-
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
+- apt update 
+- apt install xz-utils
+- apt install wget
+- cd /opt
 
 ## Use
-- for train
+- for download 
   ```
-  python train.py
+  wget https://nodejs.org/dist/v20.11.1/node-v20.11.1-linux-x64.tar.xz
   ```
-- for test
+- for specific versions 
   ```
-  python test.py
+  Nodejs (https://nodejs.org/dist/)
   ```
 ## Pretrained model
 | Model | Download |
