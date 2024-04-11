@@ -14,7 +14,7 @@ NODEJs INSTALLATION ON UBUNTU
   ```
 - for specific versions 
   ```
-  [Nodejs](https://nodejs.org/dist/)
+   [download](https://nodejs.org/dist/)
   ```
 ## Pretrained model
 | Model | Download |
