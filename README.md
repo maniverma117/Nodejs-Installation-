@@ -1,5 +1,5 @@
-NODEJs INSTALLATION ON UBUNTU
-===
+                  NODEJs INSTALLATION ON UBUNTU
+                  ===
 
 ![NODEJS](nodejs.png)
 
