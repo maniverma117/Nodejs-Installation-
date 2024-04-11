@@ -25,7 +25,7 @@ NODEJs INSTALLATION ON UBUNTU
    [download](https://nodejs.org/dist/)
  
 ## Command to run to set default NodeJs version
-- 
+- =============================================
   ```
   tar -xvf node-v20.11.1-linux-x64.tar.xz
   
